@@ -14,7 +14,7 @@ git clone https://github.com/Mohraf/akan-name-generator.git
 There are currently no bugs that have been experinced with the Website
 ## Live Site Link
 ```
-https://mohraf.github.io/portfolio-website/
+https://mohraf.github.io/akan-name-generator/
 ```
 ## Technologies Used
 - HTML
