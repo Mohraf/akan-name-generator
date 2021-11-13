@@ -1,5 +1,5 @@
 # Akan Name Generator Website
-#### This is a simple Portfolio Website for a Software Developer. {Nov,2021}
+#### A Website to view your Akan name based on your birthday and gender. {Nov,2021}
 #### By **Amos Okello**
 ## Description
 The Website contains a landing page, Projects Section and an About Me Section.
