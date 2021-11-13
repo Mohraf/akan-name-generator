@@ -2,7 +2,7 @@
 #### A Website to view your Akan name based on your birthday and gender. {Nov,2021}
 #### By **Amos Okello**
 ## Description
-The Website contains a landing page, Projects Section and an About Me Section.
+The Website contains a landing page with a brief application description and a form that takes in your name and gender and prints out your Akan Name
 ## Setup/Installation Requirements
 * Clone the repository from github
 ```
