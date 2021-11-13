@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+.container > div {
+  margin-top: 50px;
+  padding: 3rem;
+}
