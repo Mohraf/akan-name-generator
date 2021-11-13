@@ -6,7 +6,7 @@ The Website contains a landing page with a brief application description and a f
 ## Setup/Installation Requirements
 * Clone the repository from github
 ```
-git clone https://github.com/Mohraf/portfolio-website.git
+git clone https://github.com/Mohraf/akan-name-generator.git
 ```
 * Open the project folder with your favorite IDE e.g https://code.visualstudio.com/
 * Run the index file with live server.
