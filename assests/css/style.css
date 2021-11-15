@@ -1,7 +1,8 @@
 body {
   margin: 0;
+  /* height: 100vh; */
 }
-
+/*
 .container {
   max-width: 80%;
   margin: 0 auto;
@@ -15,4 +16,9 @@ body {
 .container > div {
   margin-top: 50px;
   padding: 3rem;
+} */
+
+.center {
+  align-items: center;
+  justify-content: center;
 }

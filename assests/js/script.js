@@ -26,5 +26,5 @@ $('#submit').on('click', () => {
     akanName = girls[weekday];
   }
 
-  document.getElementById('akan-name').innerHTML += akanName;
+  document.getElementById('akan-name').innerHTML = akanName;
 });
