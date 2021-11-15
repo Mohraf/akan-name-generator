@@ -14,20 +14,26 @@
         <div class="col-md">
           <h1>Akan Name Generator</h1>
           <p>
-            This Application uses your date of birth <br />
+            This Application uses your date of birth
             combined with your gender to come up with <br />
             your <strong>Akan Name</strong>.
+          </p>
+          <p class="mt-2">
+            Akan names are derived from Ghanian culture.
+            Frequently in Ghana, children are given their 
+            first name as a 'day name' which corresponds to 
+            the day in the week they were born.
           </p>
         </div>
 
         <!-- Name Generator -->
         <div class="col-md">
-          <div>
+          <div class="mt-1">
             <label for="birthdate">Birth Date:</label>
-            <input id="birthdate" type="date" />
+            <input class="form-control" id="birthdate" type="date" />
           </div>
 
-          <div>
+          <div class="mt-3">
             <label for="male">Male:</label>
             <input
               class="form-check-input"
@@ -46,7 +52,7 @@
             />
           </div>
 
-          <div>
+          <div class="mt-3">
             <button class="btn btn-primary" id="submit">Generate</button>
           </div>
         </div>
