@@ -18,7 +18,7 @@ https://mohraf.github.io/akan-name-generator/
 ```
 ## Technologies Used
 - HTML
-- CSS
+- Bootstrap CSS
 - JavaScript
 - Git
 ## Support and contact details
